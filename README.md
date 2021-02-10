@@ -1,10 +1,10 @@
-"#stage3 details" 
+"#stage4 details" 
 
-"stage3-api" this folder is for backend side(api)
+"stage4-api" this folder is for backend side(api)
 
-"stage3-wpf" this folder is for client side
+"stage4-wpf" this folder is for client side
 
-"stage3-db.sql" for mysql database.
+"stage4-db.sql" for mysql database.
 
 *Frontend - WPF (xaml)*
     - Patterns:
